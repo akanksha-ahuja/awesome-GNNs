@@ -17,7 +17,7 @@ Wu, Lingfei, et al. "Graph neural networks: foundation, frontiers and applicatio
 
 ### List of Programming Packages: Graph Neural Networks 
 
-| **Library Name**                               | **Licence** | **Github Stars** | **Frameworks **            |
+| **Library Name**                               | **Licence** | **Github Stars** | **Frameworks**            |
 |------------------------------------------------|:-----------:|:----------------:|----------------------------|
 | Pytorch Geometric                              |     MIT     |       17.6k      | Python, PyTorch            |
 | Deep Graph Library                             |  Apache 2.0 |       11.7k      | Python, PyTorch, TF, MxNet |
@@ -29,7 +29,7 @@ Wu, Lingfei, et al. "Graph neural networks: foundation, frontiers and applicatio
 
 ### List of Programming Packages for Graphs and Networks 
 
-| **Name**         | **Licence** | **Github Stars** | **Frameworks ** | **Purpose**                            |
+| **Name**         | **Licence** | **Github Stars** | **Frameworks** | **Purpose**                            |
 |------------------|-------------|------------------|-----------------|----------------------------------------|
 | Networkx         |    BSD-3    |       9.9k       |      Python     | Graphs, Visualisation algorithms       |
 | PyGSP            |    BSD-3    |       1.4k       |      Python     | Signal processing on Graphs            |
