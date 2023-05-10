@@ -27,6 +27,7 @@ Wu, Lingfei, et al. "Graph neural networks: foundation, frontiers and applicatio
 | Jraph                                          |  Apache 2.0 |       1.2k       | Jax, PyTorch               |
 | Comprehensive Library for Graph Deep Learning  |     MIT     |       1.5k       | Python, PyTorch            |
 
+
 ### List of Programming Packages for Graphs and Networks 
 
 | **Name**         | **Licence** | **Github Stars** | **Frameworks** | **Purpose**                            |
@@ -36,3 +37,4 @@ Wu, Lingfei, et al. "Graph neural networks: foundation, frontiers and applicatio
 | PyTorch-BigGraph |     MIT     |       4.4k       |     PyTorch     | Building large-scale graph embeddings  |
 | Gephi            |   GPL-3.0   |       7.2k       |       Java      | Graph Visualisation                    |
 | Pyvis            |     MIT     |       3.3k       |      Python     | Graph Visualisation                    |
+|  netrd           |      -      |        -         |      Python     | Network reconstruction, graph distances|
