@@ -15,7 +15,7 @@ Wu, Lingfei, et al. "Graph neural networks: foundation, frontiers and applicatio
 ### Courses 
 - Leskovec, Jure. “CS224W  Machine Learning with Graphs | Home.” Web.stanford.edu, 2022, web.stanford.edu/class/cs224w/.
 
-### List of Programming Packages: Graph Neural Networks 
+### List of Programming Packages: Graph Neural Networks as of 10 May 2023
 
 | **Library Name**                               | **Licence** | **Github Stars** | **Frameworks**            |
 |------------------------------------------------|:-----------:|:----------------:|----------------------------|
