@@ -15,3 +15,24 @@ Wu, Lingfei, et al. "Graph neural networks: foundation, frontiers and applicatio
 ### Courses 
 - Leskovec, Jure. “CS224W  Machine Learning with Graphs | Home.” Web.stanford.edu, 2022, web.stanford.edu/class/cs224w/.
 
+### List of Programming Packages: Graph Neural Networks 
+
+| **Library Name**                               | **Licence** | **Github Stars** | **Frameworks **            |
+|------------------------------------------------|:-----------:|:----------------:|----------------------------|
+| Pytorch Geometric                              |     MIT     |       17.6k      | Python, PyTorch            |
+| Deep Graph Library                             |  Apache 2.0 |       11.7k      | Python, PyTorch, TF, MxNet |
+| Graph Nets                                     |  Apache 2.0 |       5.3k       | Python, PyTorch            |
+| Spektral                                       |     MIT     |       2.3k       | Python, TF2/Keras          |
+| Dive into Graphs                               |   GNU v3.0  |       1.5k       | Python, PyTorch            |
+| Jraph                                          |  Apache 2.0 |       1.2k       | Jax, PyTorch               |
+| Comprehensive Library for Graph Deep Learning  |     MIT     |       1.5k       | Python, PyTorch            |
+
+### List of Programming Packages for Graphs and Networks 
+
+| **Name**         | **Licence** | **Github Stars** | **Frameworks ** | **Purpose**                            |
+|------------------|-------------|------------------|-----------------|----------------------------------------|
+| Networkx         |    BSD-3    |       9.9k       |      Python     | Graphs, Visualisation algorithms       |
+| PyGSP            |    BSD-3    |       1.4k       |      Python     | Signal processing on Graphs            |
+| PyTorch-BigGraph |     MIT     |       4.4k       |     PyTorch     | Building large-scale graph embeddings  |
+| Gephi            |   GPL-3.0   |       7.2k       |       Java      | Graph Visualisation                    |
+| Pyvis            |     MIT     |       3.3k       |      Python     | Graph Visualisation                    |
